@@ -4,7 +4,7 @@
     "start_url": "/", 
     "icons": [
         {
-            "src": "icons/manifest-icon-192.maskable.png",
+            "src": "icons/manifest-icon-144.maskable.png",
             "sizes": "144x144",
             "type": "image/png",
             "purpose": "any"
